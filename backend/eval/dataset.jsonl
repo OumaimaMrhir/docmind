@@ -1,0 +1,12 @@
+{"question": "Combien de jours de télétravail par semaine sont autorisés ?", "expected_doc": "teletravail.md"}
+{"question": "Quel est le montant de l'indemnité de télétravail par jour ?", "expected_doc": "teletravail.md"}
+{"question": "Puis-je télétravailler pendant ma période d'essai ?", "expected_doc": "teletravail.md"}
+{"question": "Quel est le plafond de remboursement pour un dîner ?", "expected_doc": "notes_de_frais.md"}
+{"question": "Dans quel délai dois-je saisir une note de frais ?", "expected_doc": "notes_de_frais.md"}
+{"question": "Les trajets en train en première classe sont-ils remboursés ?", "expected_doc": "notes_de_frais.md"}
+{"question": "Combien de caractères doit contenir un mot de passe ?", "expected_doc": "securite_informatique.md"}
+{"question": "Que faire si je reçois un email d'hameçonnage ?", "expected_doc": "securite_informatique.md"}
+{"question": "À qui déclarer un incident de sécurité ?", "expected_doc": "securite_informatique.md"}
+{"question": "Qui m'accueille le premier jour ?", "expected_doc": "onboarding.md"}
+{"question": "Quand a lieu le point d'étape avec le manager ?", "expected_doc": "onboarding.md"}
+{"question": "À qui poser mes questions sur la mutuelle et les tickets restaurant ?", "expected_doc": "onboarding.md"}
